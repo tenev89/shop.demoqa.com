@@ -1,9 +1,9 @@
 DEFECT REPORTS
 
-Welcome to the bug reports repository for the website www.shopdemowa.com! This repository contains a collection of bug reports aimed at identifying and documenting issues with the www.shopdemowa.com website.
+Welcome to the defect reports repository for the website www.shopdemowa.com ! This repository contains a collection of defect reports aimed at identifying and documenting issues.
 
 ABOUT
 
-This repository serves as a comprehensive collection of bug reports designed to highlight various issues encountered while using the www.shopdemowa.com website. Each bug report provides detailed information about the issue, including steps to reproduce, expected behavior, and actual behavior observed.# shop.demoqa.com-Bug-Reports
+This repository serves as a comprehensive collection of defect reports designed to highlight various issues encountered while using the website. Each bug report provides detailed information about the issue, including steps to reproduce, expected behavior, and actual behavior.
 
 All defect reports are located in "Issues".
