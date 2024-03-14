@@ -1,6 +1,6 @@
 DEFECT REPORTS
 
-Welcome to the defect reports repository for the website www.shopdemoqa.com ! This repository contains a collection of defect reports aimed at identifying and documenting issues.
+Welcome to the defect reports repository for the website www.shop.demoqa.com ! This repository contains a collection of defect reports aimed at identifying and documenting issues.
 
 ABOUT
 
