@@ -1,10 +1,8 @@
 DEFECT REPORTS
 
-Welcome to the defect reports repository for the website https://shop.demoqa.com/ ! This repository contains a collection of defect reports aimed at identifying and documenting issues.
-
+Welcome to the defect reports repository for the website https://shop.demoqa.com/ ! All defect reports are located in "Issues".
 ABOUT
 
 This repository serves as a comprehensive collection of defect reports designed to highlight various issues encountered while using the website. 
 Each bug report provides detailed information about the issue, including steps to reproduce, expected behavior, and actual behavior.
 
-All defect reports are located in "Issues".
