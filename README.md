@@ -1,6 +1,9 @@
 # Defect reports
 
-Welcome to the defect reports repository for the website https://shop.demoqa.com/ ! All defect reports are located in "Issues".
+Welcome to the defect reports repository for the website https://shop.demoqa.com/ !
+
+## **All defect reports are located in _''Issues''_**
+
 
 ## About
 
